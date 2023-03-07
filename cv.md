@@ -57,5 +57,4 @@ function sumStrings(a,b) {
 - English \- Intermediate (according to the online test at ![EFset Logo](/images/efset-logo.png) [www.efset.org](https://www.efset.org/quick-check))<br>
 ![EFset Score](/images/efset-english-level.jpg)
 - Russian \- Native
-- Ukrainian \- Intermediate
-- Polish \- Basic
+- German \- Basic
