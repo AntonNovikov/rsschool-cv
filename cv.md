@@ -12,7 +12,7 @@
 ---
 
 ### Briefly About Myself:
-
+I am 34 years old, I work as a engineer. 
 I’m interested in Web Development because this occupation provides endless possibilities for professional growth,<br>
 besides there’s a huge amount of free high quality resources for self-education and a large community of developers.<br>
 
@@ -22,11 +22,17 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 
 ### Skills and Proficiency:
 
-- HTML5, CSS3
-- JavaScript Basics
+- HTML5
+- CSS3 (Bootstrap, SASS/SCSS, BEM)
+- JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
 - Git, GitHub, GitHub Desktop
 - VS Code
+- Figma (for web development)
 - Adobe Photoshop
+
+---
+
+### Education:
 
 ---
 
@@ -56,5 +62,6 @@ function sumStrings(a,b) {
 
 - English \- Intermediate (according to the online test at ![EFset Logo](/images/efset-logo.png) [www.efset.org](https://www.efset.org/quick-check))<br>
 ![EFset Score](/images/efset-english-level.jpg)
+- [EPAM English test result (try it):](https://examinator.epam.com/Main/PersonalAssignments)B1
 - Russian \- Native
 - German \- Basic
