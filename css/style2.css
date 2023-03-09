@@ -1,37 +1,22 @@
 :root {
-  --dark-gray-color: #1a1a1a;
-  --ligth-gray-color: #000;
-  --pink-color: #fffdbd;
+  --dark-gray-color: #505050;
+  --ligth-gray-color: #777777;
+  --pink-color: #ffd6d2;
 }
 
 body {
   box-sizing: border-box;
   /* background-color: #f5f5f5; */
-  background-color: #fff;
+  background-color: #474141;
 }
-a:not([href*="t.me"] ){
-  background: var(--pink-color);
-  border-radius: 2px;
-  padding: 2px 6px;
-  color: #000;
-  text-decoration: none;
-}
-a:hover{
-  opacity: 0.8;
-}
-footer a{
-  background: inherit !important;
-  color: #fff !important;
-}
+
 .container-centered {
-  border-radius: 10px 10px 0 0;
-  overflow: hidden;
   margin: 20px auto;
   width: 1024px;
   font-family: "Cabin", sans-serif;
   font-size: 18px;
   line-height: 1.5;
-  background-color: #9aebe8;
+  background-color: #84bb8d;
   /* background-color: #ffffff; */
   box-shadow: 10px 10px 40px -1px rgba(0, 0, 0, 0.23);
 }
@@ -162,7 +147,7 @@ main :not(.contacts) ul {
 }
 
 .right-column p {
-  color: #000;
+  color: var(--ligth-gray-color);
 }
 
 .education p {
@@ -199,7 +184,7 @@ pre {
   padding-left: 10px;
   font-family: monospace;
   font-size: 0.9rem;
-  background-color: #fff;
+  background-color: #f5f5f5;
 }
 
 footer {
